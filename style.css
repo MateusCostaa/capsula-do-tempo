@@ -210,6 +210,20 @@ nav {
   transform: scale(1.1);
 }
 
+footer {
+  text-align: center;
+  line-height: 28px;
+}
+
+footer {
+  text-align: center;
+  line-height: 28px;
+}
+.valentine {
+  text-align: center;
+  line-height: 80px;
+}
+
 aside {
   grid-area: profile;
 
